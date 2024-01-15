@@ -1,10 +1,10 @@
-#include <bits/stdc++.h>
-#include <conio.h>
-#include <windows.h>
-#include "manager.h"
-#include "customerCart.h"
-#include "customerQueue.h"
-#include "animation.h"
+include <bits/stdc++.h>
+include <conio.h>
+include <windows.h>
+include "manager.h"
+include "customerCart.h"
+include "customerQueue.h"
+include "animation.h"
 using namespace std;
 #define fastio ios_base::sync_with_stdio(false); cin.tie(NULL);
 
